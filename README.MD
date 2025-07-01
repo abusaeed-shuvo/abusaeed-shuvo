@@ -8,22 +8,22 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on: **Material Design File Manager**  
-- 🌱 I’m learning: **Jetpack Compose | Kotlin Coroutines | System APIs (Shizuku, SAF)**  
-- 🧠 Experienced in: `Room`, `Navigation Component`, `ViewModel`, `LiveData`, `WorkManager`, `Firebase`  
-- 💡 Passionate about: Building beautiful, fast, and useful Android apps  
-- 💬 Ask me about: **Android App Architecture**, **Custom Views**, **UI/UX in XML and Compose**
+- 🔭 Currently working on: **Material Design File Manager**
+- 🌱 Learning: **Jetpack Compose**, **Kotlin Coroutines**, **Shizuku**, **SAF**
+- 🧠 Skilled in: `Room`, `Navigation Component`, `ViewModel`, `LiveData`, `Firebase`
+- 💡 Passionate about: Building beautiful, fast, and useful Android apps
+- 💬 Ask me about: **Android Architecture**, **Custom Views**, **XML & Compose UI**
 
 ---
 
 ### 🔧 Tech Stack
+
 #### Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,gradle,firebase,figma,sqlite" />
 </p>
 
-
-#### Android & Frameworks
+#### Android Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Room-00695C?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -32,23 +32,34 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abusaeed-shuvo)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=abusaeed-shuvo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=abusaeed-shuvo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+### 📌 Pinned Repositories
 
-
+| Repository                                                                          | Description                                                        | Tech Stack                                                 |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------- |
+| [📁 Material File Manager](https://github.com/abusaeed-shuvo/material-file-manager) | Modern Android file manager with SD card, SAF, and Shizuku support | `Kotlin`, `SAF`, `Shizuku`, `ViewModel`, `Material Design` |
+| [💸 Budget Manager 2](https://github.com/abusaeed-shuvo/Budget-Manager-2)           | Expense and income tracker with rich UI and live data              | `Kotlin`, `Room`, `LiveData`, `Navigation`, `MVVM`         |
+| [📝 Fire Notes](https://github.com/abusaeed-shuvo/Fire-Notes)                       | Note-taking app with Firebase integration and modern UI            | `Firebase`, `ViewModel`, `Material Design`, `Kotlin`       |
 
 ---
 
-### 📫 Connect with me
+### 📈 GitHub Stats
 
-<p align="left">
-
-  <a href="mailto:abusaeed.shuvo1439@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abusaeed-shuvo&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusaeed-shuvo&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
+
+### 📫 Contact Me
+
+<p align="left">
+  <a href="mailto:abusaeed.shuvo1439@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+--- 
 
 <p align="center">
   ✨ Let's build something amazing together!
