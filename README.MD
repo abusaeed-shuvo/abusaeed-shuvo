@@ -36,9 +36,9 @@
 
 | Repository                                                                          | Description                                                        | Tech Stack                                                 |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------- |
-| [📁 Material File Manager](https://github.com/abusaeed-shuvo/material-file-manager) | Modern Android file manager with SD card, SAF, and Shizuku support | `Kotlin`, `SAF`, `Shizuku`, `ViewModel`, `Material Design` |
+| [📁 Material File Manager](https://github.com/abusaeed-shuvo/material-file-manager) | Modern Android file manager with SD card, SAF, and Shizuku support | `Kotlin`, `Shizuku`, `ViewModel`, `Material Design` |
 | [💸 Budget Manager 2](https://github.com/abusaeed-shuvo/Budget-Manager-2)           | Expense and income tracker with rich UI and live data              | `Kotlin`, `Room`, `LiveData`, `Navigation`, `MVVM`         |
-| [📝 Fire Notes](https://github.com/abusaeed-shuvo/Fire-Notes)                       | Note-taking app with Firebase integration and modern UI            | `Firebase`, `ViewModel`, `Material Design`, `Kotlin`       |
+| [📝 Fire Notes](https://github.com/abusaeed-shuvo/Fire-Notes)                       | Note-taking app with Firebase integration and modern UI            | `ViewModel`, `Material Design`, `Kotlin`       |
 
 ---
 
