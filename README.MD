@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-git-master-abusaeeds-projects.vercel.app/api?username=abusaeed-shuvo&theme=tokyonight&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusaeed-shuvo&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-git-master-abusaeeds-projects.vercel.app/api/top-langs/?username=abusaeed-shuvo&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
